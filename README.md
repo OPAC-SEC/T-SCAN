@@ -1,4 +1,4 @@
-# 🛡️ T-SCAN (Terminal Version) ![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
+# 🛡️ T-SCAN (Threat scanning) ![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 T-SCAN is a terminal-based cybersecurity tool that scans URLs, file hashes, IP addresses, and email addresses using the VirusTotal API. It provides a lightweight and effective solution for threat intelligence analysis, displaying scan results with an easy-to-read pie chart directly in the terminal.
 
