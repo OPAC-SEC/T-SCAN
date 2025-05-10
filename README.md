@@ -34,20 +34,14 @@ Example :- git clone https://github.com/opac-sec/T-SCAN.git
 
 
 🖥️ Usage
-python tscan.py
+
+python:- tscan.py
+
  Example: 🔗 T-SCAN > Enter target (or type 'exit' to quit): 192.168.1.1
 
 
-Example Output:
-Scan input: 192.168.1.1
-Malicious: 0
-Harmless: 3
-Suspicious: 0
-Total Engines: 3
-Malicious %: 0.0%
-----------------------------------------
-
 📈 Example Output in Terminal:
+
 ████████╗     ███████╗ ██████╗  █████╗ ███╗   ██╗
 ╚══██╔══╝     ██╔════╝██╔════╝ ██╔══██╗████╗  ██║
    ██║█████╗  ███████╗██║  ███╗███████║██╔██╗ ██║
@@ -72,3 +66,19 @@ Harmless: ███████████████████████�
 Suspicious: ██████ 0.0%
 ----------------------------------------
 
+
+
+
+🔧 Contributing
+Feel free to fork the repository and create pull requests if you'd like to contribute to the project. You can also open an issue if you encounter any problems or have any suggestions for improvement.
+
+📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+About the Developer
+👨‍💻 Abhay Patel
+Cybersecurity Enthusiast | Security Researcher | 
+
+Follow me on LinkedIn for more updates.
+
+Check out my GitHub repository: opac-sec
